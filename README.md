@@ -11,6 +11,24 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 `por determinar`
 
+**2º DAW Tarde**
+* Valkiria Pádel Club: Conde Serrano, Cristina + Trujillo Navarro, Santiago
+* YoTen: Cubillos García, Steven
+* HanamiTalks: Delgado Muñoz, Cristina
+* TuDespacho: Feqri , Safaa
+* Aerog Travel: Fernández Chica, Antonio
+* CrochetArt: Gallego Fernández, Francisco Javier
+* FitHubX: Jáuregui Lahoz, Guillermo
+* Sintegra: Martín Barea, Irene
+* FightingCore: Martín Rojas, José Miguel
+* plotscore: Millán Soria, Christian
+* PokeBlog: Nadales Suárez, Mario
+* PerfectGG: Ponce Garrido, Luis
+* GameRev: Silva Alcántara, Rafael
+* Entiende El Flamenco: Trujillo Álvarez, Carmen Belén
+* ForstAI: Valverde Olmedo, Víctor
+* ??: Moya Baena, José Ángel + Villalta Dos Santos, Lunna Aytana
+
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: `por determinar`
 * Revisión (checkpoint): `por determinar`

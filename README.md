@@ -10,7 +10,9 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 ## Índice a los proyectos de cada alumno
 
 **2º DAW Mañana**
+
 `por determinar`
+
 
 **2º DAW Tarde**
 * Valkiria Pádel Club: Conde Serrano, Cristina + Trujillo Navarro, Santiago

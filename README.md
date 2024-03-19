@@ -30,7 +30,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 * GameRev: Silva Alcántara, Rafael
 * Entiende El Flamenco: Trujillo Álvarez, Carmen Belén
 * ForstAI: Valverde Olmedo, Víctor
-* ??: Moya Baena, José Ángel + Villalta Dos Santos, Lunna Aytana
+* SubStore: Moya Baena, José Ángel + Villalta Dos Santos, Lunna Aytana
 
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: 5 de abril de 2024

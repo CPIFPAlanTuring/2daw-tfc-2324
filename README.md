@@ -13,7 +13,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 * **GRUPO 01: Entryzio** - David Martos Ruíz y Vicente Santiago Perea
 * **GRUPO 02: GameSphere** - David Portillo Hoyos y Sergio Rolando Martínez
-* **GRUPO 03: `pendiente`** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
+* **GRUPO 03: VisionHub** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
 * **GRUPO 04: `pendiente`** - Ana Capilla Pérez y José Sánchez Martínez
 * **GRUPO 05: Entryzio** - David Martos Ruíz y Vicente Santiago Perea
 * **GRUPO 06: MakinonBikes** - José Antonio Holgado Bonet y Alberto Moreno Fernández
@@ -23,7 +23,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 * **GRUPO 10: Gestor de Gastos** - Jorge Bazaga Sarmiento y Juan Manuel Lanza Pérez
 * **GRUPO 11: Neightmeet** - José Manuel Carazo Puga y Alberto Moreno Ayala
 * **GRUPO 12: HabitatDeluxe** - Germán Conde Sánchez y Julia López de la Torre
-* **GRUPO 13: `pendiente`** - Jeramy Marvyc Bósquez Domínguez y Francisco Siles España
+* **GRUPO 13: GamingHome** - Jeramy Marvyc Bósquez Domínguez y Francisco Siles España
 * **GRUPO 14: StudiesLinkHub** - Francisco Cedillo Serrato
 
 **2º DAW Tarde**

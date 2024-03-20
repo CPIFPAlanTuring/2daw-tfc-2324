@@ -32,7 +32,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **GRUPO 02: GameSphere** - David Portillo Hoyos y Sergio Rolando Martínez
 * **GRUPO 03: VisionHub** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
 * **GRUPO 04: `pendiente`** - Ana Capilla Pérez y José Sánchez Martínez
-* **GRUPO 05: Entryzio** - David Martos Ruíz y Vicente Santiago Perea
+* **GRUPO 05: MeetoPlay** - Alejandro Sánchez Fernández y Daniel Ramírez Vaquero
 * **GRUPO 06: MakinonBikes** - José Antonio Holgado Bonet y Alberto Moreno Fernández
 * **GRUPO 07: `pendiente`** - José Pablo Díaz Marín y Julio Granados Durán
 * **GRUPO 08: `pendiente`** - Jorge Muñoz Jiménez y Diego Sánchez Briales

@@ -7,6 +7,23 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2daw-tfc-2324/wiki).
 
+## Profesores 
+
+La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada turno.
+
+### Turno de Mañana
+
+* [David Hormigo](https://github.com/DavidHormigoRamirez)
+* [Antonio Jose Sánchez](https://github.com/antoniojosesanchez)
+* [Moisés Martín]()
+* [Jota]()
+  
+### Turno de Tarde
+
+* [David Hormigo](https://github.com/DavidHormigoRamirez)
+* [Alicia Vega]()
+* [Rocio]()
+
 ## Índice a los proyectos de cada alumno
 
 **2º DAW Mañana**

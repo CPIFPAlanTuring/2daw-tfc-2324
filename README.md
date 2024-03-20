@@ -15,14 +15,14 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 * [David Hormigo](https://github.com/DavidHormigoRamirez)
 * [Antonio Jose Sánchez](https://github.com/antoniojosesanchez)
-* [Moisés Martín]()
-* [Jota]()
+* [Moisés Martínez]()
+* [José Juan García]()
   
 ### Turno de Tarde
 
 * [David Hormigo](https://github.com/DavidHormigoRamirez)
 * [Alicia Vega]()
-* [Rocio]()
+* [Rocio López](https://github.com/rlopdav392)
 
 ## Índice a los proyectos de cada alumno
 

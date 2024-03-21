@@ -31,11 +31,11 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **GRUPO 01: Entryzio** - David Martos Ruíz y Vicente Santiago Perea
 * **GRUPO 02: GameSphere** - David Portillo Hoyos y Sergio Rolando Martínez
 * **GRUPO 03: VisionHub** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
-* **GRUPO 04: `pendiente`** - Ana Capilla Pérez y José Sánchez Martínez
+* **GRUPO 04: DietAI** - Ana Capilla Pérez y José Sánchez Martínez
 * **GRUPO 05: MeetoPlay** - Alejandro Sánchez Fernández y Daniel Ramírez Vaquero
 * **GRUPO 06: MakinonBikes** - José Antonio Holgado Bonet y Alberto Moreno Fernández
-* **GRUPO 07: `pendiente`** - José Pablo Díaz Marín y Julio Granados Durán
-* **GRUPO 08: `pendiente`** - Jorge Muñoz Jiménez y Diego Sánchez Briales
+* **GRUPO 07: PortalWork** - José Pablo Díaz Marín y Julio Granados Durán
+* **GRUPO 08: DailyTracker** - Jorge Muñoz Jiménez y Diego Sánchez Briales
 * **GRUPO 09: Málaga Beyond** - Iván Hijano Soler
 * **GRUPO 10: Gestor de Gastos** - Jorge Bazaga Sarmiento y Juan Manuel Lanza Pérez
 * **GRUPO 11: Neightmeet** - José Manuel Carazo Puga y Alberto Moreno Ayala

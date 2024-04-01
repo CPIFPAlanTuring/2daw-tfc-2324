@@ -35,7 +35,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **GRUPO 05: [MeetoPlay](https://github.com/Alexiiius/MeetoPlay)** - Alejandro Sánchez Fernández y Daniel Ramírez Vaquero
 * **GRUPO 06: [MakinonBikes](https://github.com/AlbertoMorenoFdez/Makinon-Bikes)** - José Antonio Holgado Bonet y Alberto Moreno Fernández
 * **GRUPO 07: PortalWork** - José Pablo Díaz Marín y Julio Granados Durán
-* **GRUPO 08: DailyTracker** - Jorge Muñoz Jiménez y Diego Sánchez Briales
+* **GRUPO 08: [DailyTracker](https://github.com/j0rg3mj/DailyTracker)** - Jorge Muñoz Jiménez y Diego Sánchez Briales
 * **GRUPO 09: Málaga Beyond** - Iván Hijano Soler
 * **GRUPO 10: Gestor de Gastos** - Jorge Bazaga Sarmiento y Juan Manuel Lanza Pérez
 * **GRUPO 11: [Neightmeet](https://github.com/albert0moreno/neightmeet)** - José Manuel Carazo Puga y Alberto Moreno Ayala

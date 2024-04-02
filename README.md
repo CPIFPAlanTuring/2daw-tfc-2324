@@ -38,7 +38,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **GRUPO 08: [DailyTracker](https://github.com/j0rg3mj/DailyTracker)** - Jorge Muñoz Jiménez y Diego Sánchez Briales
 * **GRUPO 09: Málaga Beyond** - Iván Hijano Soler
 * **GRUPO 10: Gestor de Gastos** - Jorge Bazaga Sarmiento y Juan Manuel Lanza Pérez
-* **GRUPO 11: [Neightmeet](https://github.com/albert0moreno/neightmeet)** - José Manuel Carazo Puga y Alberto Moreno Ayala
+* **GRUPO 11: [Neightmeet](https://translucent-houseboat-ac7.notion.site/NEIGHTMEET-b3f65e2c125342888f5e273ac21230d3)** - José Manuel Carazo Puga y Alberto Moreno Ayala
 * **GRUPO 12: HabitatDeluxe** - Germán Conde Sánchez y Julia López de la Torre
 * **GRUPO 13: GamingHome** - Jeramy Marvyc Bósquez Domínguez y Francisco Siles España
 * **GRUPO 14: StudiesLinkHub** - Francisco Cedillo Serrato

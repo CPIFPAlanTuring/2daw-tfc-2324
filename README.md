@@ -53,7 +53,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * FitHubX: Jáuregui Lahoz, Guillermo
 * Sintegra: Martín Barea, Irene
 * FightingCore: Martín Rojas, José Miguel
-* plotscore: Millán Soria, Christian
+* **[plotscore](https://github.com/cmilsor245/tfg-general)**: Millán Soria, Christian
 * PokeBlog: Nadales Suárez, Mario
 * PerfectGG: Ponce Garrido, Luis
 * GameRev: Silva Alcántara, Rafael

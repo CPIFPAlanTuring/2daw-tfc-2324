@@ -28,7 +28,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 **2º DAW Mañana**
 
-* **GRUPO 01: Entryzio** - David Martos Ruíz y Vicente Santiago Perea
+* **GRUPO 01: [Entryzio](https://github.com/davidmartosruiz/Entryzio)** - David Martos Ruíz y Vicente Santiago Perea
 * **GRUPO 02: [GameSphere](https://github.com/Dsertor/Hookdb)** - David Portillo Hoyos y Sergio Rolando Martínez
 * **GRUPO 03: VisionHub** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
 * **GRUPO 04: DietAI** - Ana Capilla Pérez y José Sánchez Martínez

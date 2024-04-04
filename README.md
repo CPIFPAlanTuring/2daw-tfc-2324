@@ -50,7 +50,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * TuDespacho: Feqri , Safaa
 * **[Aerog Travel](https://github.com/aerog12/tfg)**: Fernández Chica, Antonio
 * CrochetArt: Gallego Fernández, Francisco Javier
-* FitHubX: Jáuregui Lahoz, Guillermo
+* **[FitHubX](https://github.com/Guisseee/TFG-Guillermo-Jauregui-Lahoz)**: Jáuregui Lahoz, Guillermo
 * Sintegra: Martín Barea, Irene
 * FightingCore: Martín Rojas, José Miguel
 * **[plotscore](https://github.com/cmilsor245/tfg-general)**: Millán Soria, Christian

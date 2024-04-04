@@ -48,7 +48,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * YoTen: Cubillos García, Steven
 * HanamiTalks: Delgado Muñoz, Cristina
 * TuDespacho: Feqri , Safaa
-* [Aerog Travel](https://github.com/aerog12/tfg)**: Fernández Chica, Antonio
+* **[Aerog Travel](https://iridescent-vein-407.notion.site/PROYECTO-AEROGTRAVEL-6b745a2494d648989c9faa86f8cf97e1?pvs=4)**: Fernández Chica, Antonio
 * CrochetArt: Gallego Fernández, Francisco Javier
 * FitHubX: Jáuregui Lahoz, Guillermo
 * Sintegra: Martín Barea, Irene

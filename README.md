@@ -45,7 +45,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **GRUPO 15: [Blisss](https://grommar847j.notion.site/Anteproyecto-Blisss-f3b502f1256140d7a5dce40d806a1d38)** - Ginebra Romero Martínez
 
 **2º DAW Tarde**
-* Valkiria Pádel Club: Conde Serrano, Cristina + Trujillo Navarro, Santiago
+* **[Fleki-Bolas Pádel Team](https://nebulous-glade-1db.notion.site/FLEKI-BOLAS-P-DEL-TEAM-fad327d6948949b1942a4ff101635158)**: Conde Serrano, Cristina + Trujillo Navarro, Santiago
 * YoTen: Cubillos García, Steven
 * **[HanamiTalks](https://root-saffron-690.notion.site/HanamiTalks-d3a4f4b88ec84964a7283280fa08795b)**: Delgado Muñoz, Cristina
 * TuDespacho: Feqri , Safaa

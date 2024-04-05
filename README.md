@@ -30,7 +30,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 * **GRUPO 01: [Entryzio](https://github.com/davidmartosruiz/Entryzio)** - David Martos Ruíz y Vicente Santiago Perea
 * **GRUPO 02: [GameSphere](https://github.com/Dsertor/Hookdb)** - David Portillo Hoyos y Sergio Rolando Martínez
-* **GRUPO 03: VisionHub** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
+* **GRUPO 03: [VisionHub](https://perpetual-suede-682.notion.site/Anteproyecto-ab2ea79e76064f66812afe1d15b711fb)** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
 * **GRUPO 04: [DietAI](https://github.com/jimmysm1995/DietAI_proyect)** - Ana Capilla Pérez y José Sánchez Martínez
 * **GRUPO 05: [MeetoPlay](https://github.com/Alexiiius/MeetoPlay)** - Alejandro Sánchez Fernández y Daniel Ramírez Vaquero
 * **GRUPO 06: [MakinonBikes](https://github.com/AlbertoMorenoFdez/Makinon-Bikes)** - José Antonio Holgado Bonet y Alberto Moreno Fernández

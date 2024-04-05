@@ -49,8 +49,8 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * HanamiTalks: Delgado Muñoz, Cristina
 * TuDespacho: Feqri , Safaa
 * **[Aerog Travel](https://github.com/aerog12/tfg)**: Fernández Chica, Antonio
-* CrochetArt: Gallego Fernández, Francisco Javier
-* FitHubX: Jáuregui Lahoz, Guillermo
+* CrochetArt(https://fuchsia-wolfsbane-493.notion.site/AnteProyecto-CrochetArt-cc9624a70e474d3690541fb14fc22d88): Gallego Fernández, Francisco Javier
+* FitHubX(https://intriguing-tax-c0f.notion.site/FitHubX-a11464995d2046e6b4468075607cd2e0): Jáuregui Lahoz, Guillermo
 * Sintegra: Martín Barea, Irene
 * FightingCore: Martín Rojas, José Miguel
 * **[plotscore](https://github.com/cmilsor245/tfg-general)**: Millán Soria, Christian

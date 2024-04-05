@@ -42,7 +42,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **GRUPO 12: [HabitatLuxe](https://fog-turret-a81.notion.site/Anteproyecto-HabitatLuxe-d3656236fd2d494ab1a93a750bf2ebd6)** - Germán Conde Sánchez y Julia López de la Torre
 * **GRUPO 13: [GamingHome](https://github.com/FranSiles/Proyecto-Final-DAW)** - Jeramy Marvyc Bósquez Domínguez y Francisco Siles España
 * **GRUPO 14: StudiesLinkHub** - Francisco Cedillo Serrato
-* **GRUPO 15: Blisss** - Ginebra Romero Martínez
+* **GRUPO 15: [Blisss](https://grommar847j.notion.site/Anteproyecto-Blisss-f3b502f1256140d7a5dce40d806a1d38)** - Ginebra Romero Martínez
 
 **2º DAW Tarde**
 * Valkiria Pádel Club: Conde Serrano, Cristina + Trujillo Navarro, Santiago

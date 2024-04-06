@@ -30,7 +30,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 * **GRUPO 01: [Entryzio](https://github.com/davidmartosruiz/Entryzio)** - David Martos Ruíz y Vicente Santiago Perea
 * **GRUPO 02: [GameSphere](https://github.com/Dsertor/Hookdb)** - David Portillo Hoyos y Sergio Rolando Martínez
-* **GRUPO 03: VisionHub** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
+* **GRUPO 03: [VisionHub](https://perpetual-suede-682.notion.site/Anteproyecto-ab2ea79e76064f66812afe1d15b711fb)** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
 * **GRUPO 04: [DietAI](https://github.com/jimmysm1995/DietAI_proyect)** - Ana Capilla Pérez y José Sánchez Martínez
 * **GRUPO 05: [MeetoPlay](https://github.com/Alexiiius/MeetoPlay)** - Alejandro Sánchez Fernández y Daniel Ramírez Vaquero
 * **GRUPO 06: [MakinonBikes](https://github.com/AlbertoMorenoFdez/Makinon-Bikes)** - José Antonio Holgado Bonet y Alberto Moreno Fernández
@@ -42,11 +42,12 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **GRUPO 12: [HabitatLuxe](https://fog-turret-a81.notion.site/Anteproyecto-HabitatLuxe-d3656236fd2d494ab1a93a750bf2ebd6)** - Germán Conde Sánchez y Julia López de la Torre
 * **GRUPO 13: [GamingHome](https://github.com/FranSiles/Proyecto-Final-DAW)** - Jeramy Marvyc Bósquez Domínguez y Francisco Siles España
 * **GRUPO 14: StudiesLinkHub** - Francisco Cedillo Serrato
+* **GRUPO 15: [Blisss](https://grommar847j.notion.site/Anteproyecto-Blisss-f3b502f1256140d7a5dce40d806a1d38)** - Ginebra Romero Martínez
 
 **2º DAW Tarde**
-* Valkiria Pádel Club: Conde Serrano, Cristina + Trujillo Navarro, Santiago
+* **[Fleki-Bolas Pádel Team](https://nebulous-glade-1db.notion.site/FLEKI-BOLAS-P-DEL-TEAM-fad327d6948949b1942a4ff101635158)**: Conde Serrano, Cristina + Trujillo Navarro, Santiago
 * YoTen: Cubillos García, Steven
-* **[HanamiTalks](https://github.com/CrisDelgado99/HanamiTalks)**: Delgado Muñoz, Cristina
+* **[HanamiTalks](https://root-saffron-690.notion.site/HanamiTalks-d3a4f4b88ec84964a7283280fa08795b)**: Delgado Muñoz, Cristina
 * TuDespacho: Feqri , Safaa
 * **[Aerog Travel](https://github.com/aerog12/tfg)**: Fernández Chica, Antonio
 * **[CrochetArt](https://fuchsia-wolfsbane-493.notion.site/AnteProyecto-CrochetArt-cc9624a70e474d3690541fb14fc22d88)**: Gallego Fernández, Francisco Javier

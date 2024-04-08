@@ -55,7 +55,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * Sintegra: Martín Barea, Irene
 * FightingCore: Martín Rojas, José Miguel
 * **[plotscore](https://github.com/cmilsor245/tfg-general)**: Millán Soria, Christian
-* PokeBlog: Nadales Suárez, Mario
+* **[PokeBlog](https://github.com/MarioNadales/TFGPokeBlog)**: Nadales Suárez, Mario
 * **[PerfectGG](https://github.com/luis6928/PerfectGG)**: Ponce Garrido, Luis
 * GameRev: Silva Alcántara, Rafael
 * Entiende El Flamenco: Trujillo Álvarez, Carmen Belén

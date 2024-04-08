@@ -57,10 +57,10 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **[plotscore](https://github.com/cmilsor245/tfg-general)**: Millán Soria, Christian
 * **[PokeBlog](https://github.com/MarioNadales/TFGPokeBlog)**: Nadales Suárez, Mario
 * **[PerfectGG](https://github.com/luis6928/PerfectGG)**: Ponce Garrido, Luis
-* GameRev: Silva Alcántara, Rafael
+* **[GameRev](https://github.com/RafaelSilva27/GameRev)**: Silva Alcántara, Rafael
 * Entiende El Flamenco: Trujillo Álvarez, Carmen Belén
-* ForstAI: Valverde Olmedo, Víctor
-* SubStore: Moya Baena, José Ángel + Villalta Dos Santos, Lunna Aytana
+* **[ForstAI](https://github.com/darkzpvp/forstAI)**: Valverde Olmedo, Víctor
+* **[SubStore](https://github.com/ArkanMB/Manada_de_Pan)**: Moya Baena, José Ángel + Villalta Dos Santos, Lunna Aytana
 
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **5 de abril de 2024**

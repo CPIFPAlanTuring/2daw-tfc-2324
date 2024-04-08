@@ -52,7 +52,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **[Aerog Travel](https://iridescent-vein-407.notion.site/PROYECTO-AEROGTRAVEL-6b745a2494d648989c9faa86f8cf97e1?pvs=4)**: Fernández Chica, Antonio
 * **[CrochetArt](https://fuchsia-wolfsbane-493.notion.site/AnteProyecto-CrochetArt-cc9624a70e474d3690541fb14fc22d88)**: Gallego Fernández, Francisco Javier
 * **[FitHubX](https://intriguing-tax-c0f.notion.site/FitHubX-a11464995d2046e6b4468075607cd2e0)**: Jáuregui Lahoz, Guillermo
-* Sintegra: Martín Barea, Irene
+* **[Sintegra](https://github.com/IreneMB2001/Sintegra)**: Martín Barea, Irene
 * FightingCore: Martín Rojas, José Miguel
 * **[plotscore](https://github.com/cmilsor245/tfg-general)**: Millán Soria, Christian
 * **[PokeBlog](https://github.com/MarioNadales/TFGPokeBlog)**: Nadales Suárez, Mario

@@ -56,7 +56,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * FightingCore: Martín Rojas, José Miguel
 * **[plotscore](https://github.com/cmilsor245/tfg-general)**: Millán Soria, Christian
 * PokeBlog: Nadales Suárez, Mario
-* PerfectGG: Ponce Garrido, Luis
+* **[PerfectGG](https://github.com/luis6928/PerfectGG)**: Ponce Garrido, Luis
 * GameRev: Silva Alcántara, Rafael
 * Entiende El Flamenco: Trujillo Álvarez, Carmen Belén
 * ForstAI: Valverde Olmedo, Víctor

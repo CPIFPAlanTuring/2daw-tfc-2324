@@ -53,7 +53,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **[CrochetArt](https://fuchsia-wolfsbane-493.notion.site/AnteProyecto-CrochetArt-cc9624a70e474d3690541fb14fc22d88)**: Gallego Fernández, Francisco Javier
 * **[FitHubX](https://intriguing-tax-c0f.notion.site/FitHubX-a11464995d2046e6b4468075607cd2e0)**: Jáuregui Lahoz, Guillermo
 * **[Sintegra](https://github.com/IreneMB2001/Sintegra)**: Martín Barea, Irene
-* **[FightingCore](https://github.com/jmarroj844/Anteproyecto)**: Martín Rojas, José Miguel
+* **[FightingCore](https://www.notion.so/TFG-DESARROLLO-DE-APLICACIONES-WEB-81a7297b04b648ae94b3c9d0ab2e42f0)**: Martín Rojas, José Miguel
 * **[plotscore](https://github.com/cmilsor245/tfg-general)**: Millán Soria, Christian
 * **[PokeBlog](https://github.com/MarioNadales/TFGPokeBlog)**: Nadales Suárez, Mario
 * **[PerfectGG](https://github.com/luis6928/PerfectGG)**: Ponce Garrido, Luis

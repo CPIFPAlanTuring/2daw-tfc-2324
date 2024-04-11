@@ -58,7 +58,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * **[PokeBlog](https://github.com/MarioNadales/TFGPokeBlog)**: Nadales Suárez, Mario
 * **[PerfectGG](https://github.com/luis6928/PerfectGG)**: Ponce Garrido, Luis
 * **[GameRev](https://github.com/RafaelSilva27/GameRev)**: Silva Alcántara, Rafael
-* Entiende El Flamenco: Trujillo Álvarez, Carmen Belén
+* **[Entiende El Flamenco](https://placid-creek-c8a.notion.site/ENTIENDE-EL-FLAMENCO-e650f3bdc15e4d778c317e3214652a83)**: Trujillo Álvarez, Carmen Belén
 * **[ForstAI](https://github.com/darkzpvp/forstAI)**: Valverde Olmedo, Víctor
 * **[SubStore](https://github.com/ArkanMB/Manada_de_Pan)**: Moya Baena, José Ángel + Villalta Dos Santos, Lunna Aytana
 

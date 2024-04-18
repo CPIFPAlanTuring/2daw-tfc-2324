@@ -47,18 +47,18 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 **2º DAW Tarde**
 * **[Fleki-Bolas Pádel Team](https://github.com/SantiTru/FLEKI-BOLAS_PADEL_TEAM)**: Conde Serrano, Cristina + Trujillo Navarro, Santiago
 * **[YoTen](https://github.com/StevenCubillos22/YoTen)**: Cubillos García, Steven
-* **[HanamiTalks](https://root-saffron-690.notion.site/HanamiTalks-d3a4f4b88ec84964a7283280fa08795b)**: Delgado Muñoz, Cristina
+* **[HanamiTalks](https://github.com/CrisDelgado99/HanamiTalks)**: Delgado Muñoz, Cristina
 * **[TuDespacho](https://github.com/Safaafeqri89/ProyectoTFG)**: Feqri , Safaa
-* **[Aerog Travel](https://iridescent-vein-407.notion.site/PROYECTO-AEROGTRAVEL-6b745a2494d648989c9faa86f8cf97e1?pvs=4)**: Fernández Chica, Antonio
-* **[CrochetArt](https://fuchsia-wolfsbane-493.notion.site/AnteProyecto-CrochetArt-cc9624a70e474d3690541fb14fc22d88)**: Gallego Fernández, Francisco Javier
-* **[FitHubX](https://intriguing-tax-c0f.notion.site/FitHubX-a11464995d2046e6b4468075607cd2e0)**: Jáuregui Lahoz, Guillermo
+* **[Aerog Travel](https://github.com/aerog12/tfg)**: Fernández Chica, Antonio
+* **[CrochetArt](https://github.com/JaviGalFer/CrochetArt)**: Gallego Fernández, Francisco Javier
+* **[FitHubX](https://github.com/Guisseee/TFG-Guillermo-Jauregui-Lahoz)**: Jáuregui Lahoz, Guillermo
 * **[Sintegra](https://github.com/IreneMB2001/Sintegra)**: Martín Barea, Irene
 * **[FightingCore](https://github.com/jmarroj844/Anteproyecto)**: Martín Rojas, José Miguel
 * **[plotscore](https://github.com/cmilsor245/tfg-general)**: Millán Soria, Christian
 * **[PokeBlog](https://github.com/MarioNadales/TFGPokeBlog)**: Nadales Suárez, Mario
 * **[PerfectGG](https://github.com/luis6928/PerfectGG)**: Ponce Garrido, Luis
 * **[GameRev](https://github.com/RafaelSilva27/GameRev)**: Silva Alcántara, Rafael
-* **[Entiende El Flamenco](https://placid-creek-c8a.notion.site/ENTIENDE-EL-FLAMENCO-e650f3bdc15e4d778c317e3214652a83)**: Trujillo Álvarez, Carmen Belén
+* **[Entiende El Flamenco](https://github.com/CarmenTrual/EntiendeELFlamenco)**: Trujillo Álvarez, Carmen Belén
 * **[ForstAI](https://github.com/darkzpvp/forstAI)**: Valverde Olmedo, Víctor
 * **[SubStore](https://github.com/ArkanMB/Manada_de_Pan)**: Moya Baena, José Ángel + Villalta Dos Santos, Lunna Aytana
 

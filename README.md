@@ -72,11 +72,48 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
 
+**2º DAW Mañana**
+#### :calendar: lunes 17 de junio de 2024
+
+- [ ] 08:30h **[Gestor de Gastos](https://jorgebazagasarmiento.notion.site/Proyecto-Final-ef982d670bad45eca1174ef4ffc930b3)** - Jorge Bazaga Sarmiento y Juan Manuel Lanza Pérez
+- [ ] 08:50h **[Blisss](https://github.com/ginebraromero/blisss)** - Ginebra Romero Martínez
+- [ ] 09:10h **[MakinonBikes](https://github.com/AlbertoMorenoFdez/Makinon-Bikes)** - José Antonio Holgado Bonet y Alberto Moreno Fernández
+- [ ] 09:30h **[HabitatLuxe](https://fog-turret-a81.notion.site/Anteproyecto-HabitatLuxe-d3656236fd2d494ab1a93a750bf2ebd6)** - Germán Conde Sánchez y Julia López de la Torre
+- [ ] 09:50h **[GameSphere](https://github.com/Dsertor/Hookdb)** - David Portillo Hoyos y Sergio Rolando Martínez
+- [ ] 10:10h **[PortalWork](https://github.com/pepediiazz/PortalWork)** - José Pablo Díaz Marín y Julio Granados Durán
+- [ ] 10:30h **[Málaga Beyond](https://github.com/IvanHijanoSoler/MalagaBeyond-TFC)** - Iván Hijano Soler
+- [ ] 10:50h **[MeetoPlay](https://github.com/Alexiiius/MeetoPlay)** - Alejandro Sánchez Fernández y Daniel Ramírez Vaquero
+- [ ] 11:45h **[Entryzio](https://github.com/davidmartosruiz/Entryzio)** - David Martos Ruíz y Vicente Santiago Perea
+- [ ] 12:05h **[DailyTracker](https://github.com/j0rg3mj/DailyTracker)** - Jorge Muñoz Jiménez y Diego Sánchez Briales
+- [ ] 12:25h **[VisionHub](https://perpetual-suede-682.notion.site/Anteproyecto-ab2ea79e76064f66812afe1d15b711fb)** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
+- [ ] 13:05h **[DietAI](https://github.com/jimmysm1995/DietAI_proyect)** - Ana Capilla Pérez y José Sánchez Martínez
+- [ ] 13:25h **[GamingHome](https://github.com/FranSiles/Proyecto-Final-DAW)** - Jeramy Marvyc Bósquez Domínguez y Francisco Siles España
+
+**2º DAW Tarde**
+#### :calendar: martes 18 de junio de 2024
+
+- [ ] 11:00h **[PokeBlog](https://github.com/MarioNadales/TFGPokeBlog)** - Mario Nadales Suárez
+- [ ] 11:15h **[YoTen](https://github.com/StevenCubillos22/YoTen)** - Steven Cubillos García
+- [ ] 11:30h **[TuDespacho](https://github.com/Safaafeqri89/ProyectoTFG)** - Safaa Feqri
+- [ ] 11:45h **[PerfectGG](https://github.com/luis6928/PerfectGG)** - Luis Ponce Garrido
+- [ ] 12:00h **[Sintegra](https://github.com/IreneMB2001/Sintegra)** - Irene Martín Barea
+- [ ] 12:15h **[Aerog Travel](https://github.com/aerog12/tfg)** - Antonio Fernández Chica
+- [ ] 12:30h **[CrochetArt](https://github.com/JaviGalFer/CrochetArt)** - Francisco Javier Gallego Fernández
+- [ ] 12:45h **[FitHubX](https://github.com/Guisseee/TFG-Guillermo-Jauregui-Lahoz)** - Guillermo Jáuregui Lahoz
+- [ ] 13:00h **[plotscore](https://github.com/cmilsor245/tfg-general)** - Christian Millán Soria
+- [ ] 13:15h **[HanamiTalks](https://github.com/CrisDelgado99/HanamiTalks)** - Cristina Delgado Muñoz
+- [ ] 13:30h **[ForstAI](https://github.com/darkzpvp/forstAI)** - Víctor Valverde Olmedo
+- [ ] 13:45h **[GameRev](https://github.com/RafaelSilva27/GameRev)** - Rafael Silva Alcántara
+- [ ] 14:00h **[Entiende El Flamenco](https://github.com/CarmenTrual/EntiendeELFlamenco)** - Carmen Belén Trujillo Álvarez
+- [ ] 14:15h **[SubStore](https://github.com/ArkanMB/Manada_de_Pan)** - José Ángel Moya Baena y Lunna Aytanna Villalta Dos Santos, Lunna Aytana
+- [ ] 14:35h **[Fleki-Bolas Pádel Team](https://github.com/SantiTru/FLEKI-BOLAS_PADEL_TEAM)**: Cristina Conde Serrano y Santiago Trujillo Navarro
+- [ ] 14:45h **[FightingCore](https://github.com/jmarroj844/Anteproyecto)**: José Miguel Martín Rojas
+
 ---
 
 ## :school: Lugar de las exposiciones
 
-Las presentaciones tendrán lugar en el **salón de actos** del [**CPIFP Alan Turing**](https://maps.app.goo.gl/JThz6bDRVpknfbNh7) sito en C/ Frederik Termann, 3. 29590, Málaga TechPark, Campanillas, Málaga.
+Las presentaciones tendrán lugar en el **aula ATECA** del [**CPIFP Alan Turing**](https://maps.app.goo.gl/JThz6bDRVpknfbNh7) sito en C/ Frederik Termann, 3. 29590, Málaga TechPark, Campanillas, Málaga.
 
 Mapa ubicación             | 
 :-------------------------:|

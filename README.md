@@ -108,7 +108,7 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 - [ ] 14:00h **[Entiende El Flamenco](https://github.com/CarmenTrual/EntiendeELFlamenco)** - Carmen Belén Trujillo Álvarez
 - [ ] 14:15h **[SubStore](https://github.com/ArkanMB/Manada_de_Pan)** - José Ángel Moya Baena y Lunna Aytanna Villalta Dos Santos, Lunna Aytana
 - [ ] 14:35h **[Fleki-Bolas Pádel Team](https://github.com/SantiTru/FLEKI-BOLAS_PADEL_TEAM)**: Cristina Conde Serrano y Santiago Trujillo Navarro
-- [ ] 14:45h **[FightingCore](https://github.com/jmarroj844/Anteproyecto)**: José Miguel Martín Rojas
+- [ ] 14:55h **[FightingCore](https://github.com/jmarroj844/Anteproyecto)**: José Miguel Martín Rojas
 
 ---
 

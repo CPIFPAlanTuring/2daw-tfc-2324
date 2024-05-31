@@ -82,10 +82,11 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 - [ ] 09:50h **[GameSphere](https://github.com/Dsertor/Hookdb)** - David Portillo Hoyos y Sergio Rolando Martínez
 - [ ] 10:10h **[PortalWork](https://github.com/pepediiazz/PortalWork)** - José Pablo Díaz Marín y Julio Granados Durán
 - [ ] 10:30h **[Málaga Beyond](https://github.com/IvanHijanoSoler/MalagaBeyond-TFC)** - Iván Hijano Soler
-- [ ] 10:50h **[MeetoPlay](https://github.com/Alexiiius/MeetoPlay)** - Alejandro Sánchez Fernández y Daniel Ramírez Vaquero
-- [ ] 11:45h **[Entryzio](https://github.com/davidmartosruiz/Entryzio)** - David Martos Ruíz y Vicente Santiago Perea
-- [ ] 12:05h **[DailyTracker](https://github.com/j0rg3mj/DailyTracker)** - Jorge Muñoz Jiménez y Diego Sánchez Briales
-- [ ] 12:25h **[VisionHub](https://perpetual-suede-682.notion.site/Anteproyecto-ab2ea79e76064f66812afe1d15b711fb)** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
+- [ ] 10:50h **[Neightmeet](https://translucent-houseboat-ac7.notion.site/NEIGHTMEET-b3f65e2c125342888f5e273ac21230d3)** - José Manuel Carazo Puga y Alberto Moreno Ayala
+- [ ] 11:45h **[MeetoPlay](https://github.com/Alexiiius/MeetoPlay)** - Alejandro Sánchez Fernández y Daniel Ramírez Vaquero
+- [ ] 12:05h **[Entryzio](https://github.com/davidmartosruiz/Entryzio)** - David Martos Ruíz y Vicente Santiago Perea
+- [ ] 12:25h **[DailyTracker](https://github.com/j0rg3mj/DailyTracker)** - Jorge Muñoz Jiménez y Diego Sánchez Briales
+- [ ] 12:45h **[VisionHub](https://perpetual-suede-682.notion.site/Anteproyecto-ab2ea79e76064f66812afe1d15b711fb)** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
 - [ ] 13:05h **[DietAI](https://github.com/jimmysm1995/DietAI_proyect)** - Ana Capilla Pérez y José Sánchez Martínez
 - [ ] 13:25h **[GamingHome](https://github.com/FranSiles/Proyecto-Final-DAW)** - Jeramy Marvyc Bósquez Domínguez y Francisco Siles España
 

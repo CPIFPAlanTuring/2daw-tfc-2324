@@ -89,7 +89,7 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 - [ ] 12:45h **[VisionHub](https://perpetual-suede-682.notion.site/Anteproyecto-ab2ea79e76064f66812afe1d15b711fb)** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
 - [ ] 13:05h **[DietAI](https://github.com/jimmysm1995/DietAI_proyect)** - Ana Capilla Pérez y José Sánchez Martínez
 - [ ] 13:25h **[GamingHome](https://github.com/FranSiles/Proyecto-Final-DAW)** - Jeramy Marvyc Bósquez Domínguez y Francisco Siles España
-- [ ] 13:45h **[Proyecto sin nombre](https://github.com/CPIFPAlanTuring/2daw-tfc-2324)** - Ían Banderas Tomillo
+- [ ] 13:45h **[Food Lover](https://github.com/ianbanderas/Proyecto-Daw-2024/)** - Ían Banderas Tomillo
 
 **2º DAW Tarde**
 #### :calendar: martes 18 de junio de 2024

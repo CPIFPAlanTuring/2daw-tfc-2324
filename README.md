@@ -75,21 +75,21 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 **2º DAW Mañana**
 #### :calendar: lunes 17 de junio de 2024
 
-- [ ] 08:30h **[Gestor de Gastos](https://jorgebazagasarmiento.notion.site/Proyecto-Final-ef982d670bad45eca1174ef4ffc930b3)** - Jorge Bazaga Sarmiento y Juan Manuel Lanza Pérez
-- [ ] 08:50h **[Blisss](https://github.com/ginebraromero/blisss)** - Ginebra Romero Martínez
-- [ ] 09:10h **[MakinonBikes](https://github.com/AlbertoMorenoFdez/Makinon-Bikes)** - José Antonio Holgado Bonet y Alberto Moreno Fernández
-- [ ] 09:30h **[HabitatLuxe](https://fog-turret-a81.notion.site/Anteproyecto-HabitatLuxe-d3656236fd2d494ab1a93a750bf2ebd6)** - Germán Conde Sánchez y Julia López de la Torre
-- [ ] 09:50h **[GameSphere](https://github.com/Dsertor/Hookdb)** - David Portillo Hoyos y Sergio Rolando Martínez
-- [ ] 10:10h **[PortalWork](https://github.com/pepediiazz/PortalWork)** - José Pablo Díaz Marín y Julio Granados Durán
-- [ ] 10:30h **[Málaga Beyond](https://github.com/IvanHijanoSoler/MalagaBeyond-TFC)** - Iván Hijano Soler
-- [ ] 10:50h **[Neightmeet](https://translucent-houseboat-ac7.notion.site/NEIGHTMEET-b3f65e2c125342888f5e273ac21230d3)** - José Manuel Carazo Puga y Alberto Moreno Ayala
-- [ ] 11:45h **[MeetoPlay](https://github.com/Alexiiius/MeetoPlay)** - Alejandro Sánchez Fernández y Daniel Ramírez Vaquero
-- [ ] 12:05h **[Entryzio](https://github.com/davidmartosruiz/Entryzio)** - David Martos Ruíz y Vicente Santiago Perea
-- [ ] 12:25h **[DailyTracker](https://github.com/j0rg3mj/DailyTracker)** - Jorge Muñoz Jiménez y Diego Sánchez Briales
-- [ ] 12:45h **[VisionHub](https://perpetual-suede-682.notion.site/Anteproyecto-ab2ea79e76064f66812afe1d15b711fb)** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín
-- [ ] 13:05h **[DietAI](https://github.com/jimmysm1995/DietAI_proyect)** - Ana Capilla Pérez y José Sánchez Martínez
-- [ ] 13:25h **[GamingHome](https://github.com/FranSiles/Proyecto-Final-DAW)** - Jeramy Marvyc Bósquez Domínguez y Francisco Siles España
-- [ ] 13:45h **[Food Lover](https://github.com/ianbanderas/Proyecto-Daw-2024/)** - Ían Banderas Tomillo
+:white_check_mark:  08:30h **[Gestor de Gastos](https://jorgebazagasarmiento.notion.site/Proyecto-Final-ef982d670bad45eca1174ef4ffc930b3)** - Jorge Bazaga Sarmiento y Juan Manuel Lanza Pérez<br/>
+:white_check_mark:  08:50h **[Blisss](https://github.com/ginebraromero/blisss)** - Ginebra Romero Martínez<br/>
+:white_check_mark:  09:10h **[MakinonBikes](https://github.com/AlbertoMorenoFdez/Makinon-Bikes)** - José Antonio Holgado Bonet y Alberto Moreno Fernández<br/>
+:white_check_mark:  09:30h **[HabitatLuxe](https://fog-turret-a81.notion.site/Anteproyecto-HabitatLuxe-d3656236fd2d494ab1a93a750bf2ebd6)** - Germán Conde Sánchez y Julia López de la Torre<br/>
+:white_check_mark:  09:50h **[GameSphere](https://github.com/Dsertor/Hookdb)** - David Portillo Hoyos y Sergio Rolando Martínez<br/>
+:white_check_mark:  10:10h **[PortalWork](https://github.com/pepediiazz/PortalWork)** - José Pablo Díaz Marín y Julio Granados Durán<br/>
+:white_check_mark:  10:30h **[Málaga Beyond](https://github.com/IvanHijanoSoler/MalagaBeyond-TFC)** - Iván Hijano Soler<br/>
+:white_check_mark:  10:50h **[Neightmeet](https://translucent-houseboat-ac7.notion.site/NEIGHTMEET-b3f65e2c125342888f5e273ac21230d3)** - José Manuel Carazo Puga y Alberto Moreno Ayala<br/>
+:white_check_mark:  11:45h **[MeetoPlay](https://github.com/Alexiiius/MeetoPlay)** - Alejandro Sánchez Fernández y Daniel Ramírez Vaquero<br/>
+:white_check_mark:  12:05h **[Entryzio](https://github.com/davidmartosruiz/Entryzio)** - David Martos Ruíz y Vicente Santiago Perea<br/>
+:white_check_mark:  12:25h **[DailyTracker](https://github.com/j0rg3mj/DailyTracker)** - Jorge Muñoz Jiménez y Diego Sánchez Briales<br/>
+:white_check_mark:  12:45h **[VisionHub](https://perpetual-suede-682.notion.site/Anteproyecto-ab2ea79e76064f66812afe1d15b711fb)** - David Nathanael Pucheta Posdeley y Roberto Sánchez Martín<br/>
+:white_check_mark:  13:05h **[DietAI](https://github.com/jimmysm1995/DietAI_proyect)** - Ana Capilla Pérez y José Sánchez Martínez<br/>
+:white_check_mark:  13:25h **[GamingHome](https://github.com/FranSiles/Proyecto-Final-DAW)** - Jeramy Marvyc Bósquez Domínguez y Francisco Siles España<br/>
+:white_check_mark:  13:45h **[Food Lover](https://github.com/ianbanderas/Proyecto-Daw-2024/)** - Ían Banderas Tomillo<br/>
 
 **2º DAW Tarde**
 #### :calendar: martes 18 de junio de 2024

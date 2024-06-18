@@ -94,22 +94,22 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 **2º DAW Tarde**
 #### :calendar: martes 18 de junio de 2024
 
-- [ ] 11:00h **[PokeBlog](https://github.com/MarioNadales/TFGPokeBlog)** - Mario Nadales Suárez
-- [ ] 11:15h **[YoTen](https://github.com/StevenCubillos22/YoTen)** - Steven Cubillos García
-- [ ] 11:30h **[TuDespacho](https://github.com/Safaafeqri89/ProyectoTFG)** - Safaa Feqri
-- [ ] 11:45h **[PerfectGG](https://github.com/luis6928/PerfectGG)** - Luis Ponce Garrido
-- [ ] 12:00h **[Sintegra](https://github.com/IreneMB2001/Sintegra)** - Irene Martín Barea
-- [ ] 12:15h **[Aerog Travel](https://github.com/aerog12/tfg)** - Antonio Fernández Chica
-- [ ] 12:30h **[CrochetArt](https://github.com/JaviGalFer/CrochetArt)** - Francisco Javier Gallego Fernández
-- [ ] 12:45h **[FitHubX](https://github.com/Guisseee/TFG-Guillermo-Jauregui-Lahoz)** - Guillermo Jáuregui Lahoz
-- [ ] 13:00h **[plotscore](https://github.com/cmilsor245/tfg-general)** - Christian Millán Soria
-- [ ] 13:15h **[HanamiTalks](https://github.com/CrisDelgado99/HanamiTalks)** - Cristina Delgado Muñoz
-- [ ] 13:30h **[ForstAI](https://github.com/darkzpvp/forstAI)** - Víctor Valverde Olmedo
-- [ ] 13:45h **[GameRev](https://github.com/RafaelSilva27/GameRev)** - Rafael Silva Alcántara
-- [ ] 14:00h **[Entiende El Flamenco](https://github.com/CarmenTrual/EntiendeELFlamenco)** - Carmen Belén Trujillo Álvarez
-- [ ] 14:15h **[SubStore](https://github.com/ArkanMB/Manada_de_Pan)** - José Ángel Moya Baena y Lunna Aytanna Villalta Dos Santos, Lunna Aytana
-- [ ] 14:35h **[Fleki-Bolas Pádel Team](https://github.com/SantiTru/FLEKI-BOLAS_PADEL_TEAM)**: Cristina Conde Serrano y Santiago Trujillo Navarro
-- [ ] 14:55h **[FightingCore](https://github.com/jmarroj844/Anteproyecto)**: José Miguel Martín Rojas
+:white_check_mark: 11:00h **[PokeBlog](https://github.com/MarioNadales/TFGPokeBlog)** - Mario Nadales Suárez<br/>
+:white_check_mark: 11:15h **[YoTen](https://github.com/StevenCubillos22/YoTen)** - Steven Cubillos García<br/>
+:white_check_mark: 11:30h **[TuDespacho](https://github.com/Safaafeqri89/ProyectoTFG)** - Safaa Feqri<br/>
+:white_check_mark: 11:45h **[PerfectGG](https://github.com/luis6928/PerfectGG)** - Luis Ponce Garrido<br/>
+:white_check_mark: 12:00h **[Sintegra](https://github.com/IreneMB2001/Sintegra)** - Irene Martín Barea<br/>
+:white_check_mark: 12:15h **[Aerog Travel](https://github.com/aerog12/tfg)** - Antonio Fernández Chica<br/>
+:white_check_mark: 12:30h **[CrochetArt](https://github.com/JaviGalFer/CrochetArt)** - Francisco Javier Gallego Fernández<br/>
+:white_check_mark: 12:45h **[FitHubX](https://github.com/Guisseee/TFG-Guillermo-Jauregui-Lahoz)** - Guillermo Jáuregui Lahoz<br/>
+:white_check_mark: 13:00h **[plotscore](https://github.com/cmilsor245/tfg-general)** - Christian Millán Soria<br/>
+:white_check_mark: 13:15h **[HanamiTalks](https://github.com/CrisDelgado99/HanamiTalks)** - Cristina Delgado Muñoz<br/>
+:white_check_mark: 13:30h **[ForstAI](https://github.com/darkzpvp/forstAI)** - Víctor Valverde Olmedo<br/>
+:white_check_mark: 13:45h **[GameRev](https://github.com/RafaelSilva27/GameRev)** - Rafael Silva Alcántara<br/>
+:black_square_button: 14:00h **[Entiende El Flamenco](https://github.com/CarmenTrual/EntiendeELFlamenco)** - Carmen Belén Trujillo Álvarez<br/>
+:white_check_mark: 14:15h **[SubStore](https://github.com/ArkanMB/Manada_de_Pan)** - José Ángel Moya Baena y Lunna Aytanna Villalta Dos Santos, Lunna Aytana<br/>
+:white_check_mark: 14:35h **[Fleki-Bolas Pádel Team](https://github.com/SantiTru/FLEKI-BOLAS_PADEL_TEAM)**: Cristina Conde Serrano y Santiago Trujillo Navarro<br/>
+:black_square_button: 14:55h **[FightingCore](https://github.com/jmarroj844/Anteproyecto)**: José Miguel Martín Rojas<br/>
 
 
 ## :school: Lugar de las exposiciones
